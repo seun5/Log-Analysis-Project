@@ -3,7 +3,7 @@ Udacity Full Stack Web Developer Nano Degree Project #3
 
 Using the news Database provided by Udacity, the script runs 3 queries and writes the output in a textfile. 
 
-### Install
+### Installation
 To start on this project, you'll need database software (provided by a Linux virtual machine) and the data to analyze.
 
 My project used the following,
@@ -22,7 +22,7 @@ $ vagrant ssh
 $ cd /vagrant
 ```
 
-### USAGE
+### Usage
 
 After going through the installation, run the following command from a command line. 
 ```
