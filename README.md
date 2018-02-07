@@ -22,7 +22,7 @@ $ vagrant ssh
 $ cd /vagrant
 ```
 
-###USAGE
+### USAGE
 
 After going through the installation, run the following command from a command line. 
 ```
@@ -32,4 +32,4 @@ $ python log_analysis.py
 
 	
 ### Issues
-*Feel free to reach out to me if there are any issues with the script. 
+Feel free to reach out to me if there are any issues with the script. 
